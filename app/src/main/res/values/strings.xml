@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">tutor_empty</string>
+    <string name="buttonText">You are buttom</string>
+    <string name="buttonClickMessage">Button has been click</string>
+</resources>
